@@ -1,7 +1,7 @@
 
 
 This archive contains the distribution File-Slurp-Fast,
-version 0.001:
+version 0.002:
 
   file parser intended for big files that doesn't fit into main memory.
 

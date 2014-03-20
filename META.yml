@@ -27,4 +27,4 @@ resources:
   bugtracker: https://github.com/Weborama/File-Slurp-Fast/issues
   homepage: https://github.com/Weborama/File-Slurp-Fast/wiki
   repository: git://github.com/Weborama/File-Slurp-Fast.git
-version: 0.001
+version: 0.002
